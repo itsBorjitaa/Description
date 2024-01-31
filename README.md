@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Borja</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineering student</h3>
 
 - 📫 Contact with me **borja.rabade@opendeusto.es**
 
